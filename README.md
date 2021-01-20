@@ -8,6 +8,7 @@
 
 * Babel
 * Code style: ESLint
+* Webpack
 
 ### Sobre
 
