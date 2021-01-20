@@ -1,1 +1,2 @@
-element.index ?? -1
+const age = 33;
+console.log(document);

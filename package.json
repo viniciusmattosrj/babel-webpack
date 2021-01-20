@@ -5,7 +5,8 @@
   "author": "Vinicius Mattos <vinimattos.rj@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=development webpack --progress --watch"
+    "dev": "NODE_ENV=development webpack --progress --watch",
+    "prod": "NODE_ENV=production webpack --progress --watch"
   },
   "dependencies": {
     "@babel/cli": "^7.12.10",

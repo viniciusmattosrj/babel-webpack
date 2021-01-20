@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://babel-webpack/./src/app.js"],"names":["age","console","log","document"],"mappings":";;;;AAAA,IAAMA,GAAG,GAAG,EAAZ;AACAC,OAAO,CAACC,GAAR,CAAYC,QAAZ,E","file":"app.js","sourcesContent":["const age = 33;\nconsole.log(document);"],"sourceRoot":""}
